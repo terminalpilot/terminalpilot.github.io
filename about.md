@@ -4,7 +4,7 @@ title: About
 ---
 
 <p class="message">
-  Hey there! This page is included as an example. Feel free to customize it for your own use upon downloading. Carry on!
+   I am an aspiring White Hat Hacker with over two years of successful Technical Support Specialist experience at Cisco and many years of IT-related roles. Grateful to have found my passion in cybersecurity and grateful to be able to pursue it relentlessly. 
 </p>
 
 In the novel, *The Strange Case of Dr. Jeykll and Mr. Hyde*, Mr. Poole is Dr. Jekyll's virtuous and loyal butler. Similarly, Poole is an upstanding and effective butler that helps you build Jekyll themes. It's made by [@mdo](https://twitter.com/mdo).
