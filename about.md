@@ -10,7 +10,7 @@ title: About
 
 ## Reach out
 
-View my LinkedIn including recommendations at .(https://www.linkedin.com/in/jonmagee/).
+View my LinkedIn including recommendations at [linkedin](https://www.linkedin.com/in/jonmagee/).
 
 Have questions or suggestions? Feel free to [open an issue on GitHub](https://github.com/poole/issues/new) or [ask me on Twitter](https://twitter.com/mdo).
 
