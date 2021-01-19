@@ -3,7 +3,8 @@ layout: page
 title: About Me
 published: true
 ---
-![jon](public/jonfin.jpeg "jon")
+
+jon](public/jonfin.jpeg "jon")
 
 
 <p class="message">
