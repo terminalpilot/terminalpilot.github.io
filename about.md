@@ -3,7 +3,7 @@ layout: page
 title: About Me
 published: true
 ---
-![jon](/images/jonfin.jpeg "jon")
+![jon](public/jonfin.jpeg "jon")
 
 
 <p class="message">
@@ -15,4 +15,4 @@ published: true
 
 Connect with me and view my recommendations at [linkedin](https://www.linkedin.com/in/jonmagee/).
 
-Thank you for reading! 
+Thank you for reading!
