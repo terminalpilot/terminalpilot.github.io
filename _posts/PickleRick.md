@@ -1,6 +1,6 @@
 ---
 layout: post
-title: pickle rick
+title: picklerick
 published: true
 ---
 ##Pickle Rick
