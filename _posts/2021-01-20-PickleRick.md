@@ -23,7 +23,7 @@ traceroute and common script scanning.\
 → **-p-**: scan **all** ports; not just the common ones. In-case the
 victim machine reassigned ports to evade scanners.\
 \
-**NOTE**: My process is I use -vv, -A, and -p- as switches as a minimum. More often today common are ports shifted around to evade scanners. That is why I add -p-. Sometimes for a ctf if it's clear what I'm looking for I may take -p- off out of an interest of time. 
+**NOTE**: My process is I use -vv, -A, and -p- as switches as a minimum. More often today common are ports shifted around to evade scanners. That is why I add -p-. Sometimes for a ctf if I have success in what I'm looking for I may take -p- off out of an interest of time.\
 \
 ![active](/images/2screen.png "active")\
 \
@@ -148,7 +148,7 @@ outputs a .txt**. Which is what I need.\
 ![active](/images/12screen.png "active")\
 \
 Now I\'ve found a command that **works**\...and a **clue**! Next I
-tried with Sup3rS3cretPickl3Ingred.txt\
+tried less with Sup3rS3cretPickl3Ingred.txt\
 \
 ![active](/images/13screen.png "active")\
 \
@@ -222,4 +222,4 @@ helps me really learn and own the solutions, and helps other people
 learn the CTF\'s.\
 \
 **If you are reading this and have any comments/ suggestions on
-how I can improve this writeup or write-ups in the future; Please reach out to me on discord username: terminalpilot or jon.accounts@protonmail.com. My goal with writeups is to help others understand the solution, explain my process, explain my struggles, and ultimately learn with you and 'own' the techniques.
+how I can improve this writeup or write-ups in the future; Please reach out to me on discord username: terminalpilot or jon.accounts@protonmail.com. My goal with writeups is to help others understand the solution, explain my process, explain my struggles, and ultimately learn with you and 'own' the techniques.**
