@@ -6,7 +6,7 @@ published: true
 
 ![placeholder](http://placehold.it/400x200 "Medium example image")
 
-![jon](/public/jonfin.jpeg "jon")
+![jon](/images/jonfin.png "jon")
 
 
 <p class="message">
