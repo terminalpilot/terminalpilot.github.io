@@ -4,7 +4,7 @@ title: Pickle Rick Write-up
 published: true
 ---
 
-<https://tryhackme.com/room/picklerick>\
+<https://tryhackme.com/room/picklerick>
 
 
 ![active](/images/active.png "active")
