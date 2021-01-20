@@ -3,10 +3,6 @@ layout: post
 title: Pickle Rick Write-up
 published: true
 ---
-##Pickle Rick
-
-
-
 
 <https://tryhackme.com/room/picklerick>\
 
