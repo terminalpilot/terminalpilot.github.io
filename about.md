@@ -4,8 +4,6 @@ title: About Me
 published: true
 ---
 
-![placeholder](http://placehold.it/400x200 "Medium example image")
-
 ![jon](/images/jonfin.png "jon")
 
 
