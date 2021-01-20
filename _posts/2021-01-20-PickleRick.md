@@ -206,6 +206,7 @@ sudo less /root/3rd.txt into the command panel\
 ![active](/images/22screen.png "active")\
 \
 **LOOKS LIKE THAT IS THE LAST INGREDIENT! WOHOO!**
+<p class="message">
 
 ### Lessons Learned:
 
@@ -223,3 +224,5 @@ learn the CTF\'s.\
 \
 **If you are reading this and have any comments/ suggestions on
 how I can improve this write-up or write-ups in the future; Please reach out to me on discord username: terminalpilot or jon.accounts@protonmail.com. My goal with write-ups is to help others understand the solution, explain my process, explain my struggles, and ultimately learn with you and 'own' the techniques.**
+
+</p>
