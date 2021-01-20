@@ -31,12 +31,12 @@ victim machine reassigned ports to evade scanners.\
 \
 ![active](/images/3screen.png "active")\
 \
-**What it tells me?** Port 80 is open with an apache **web-server**.
+**What it tells me?** Port 80 is open with an Apache **web-server**.
 Remember the Description of Pickle Rick? It mentioned exploring a web
 application.\
 \
 First, I popped the **victim machine URL** in my **Host Machine
-web-browser**. The webserver displays a message from Rick:\
+web-browser**. The web-server displays a message from Rick:\
 \
 ![active](/images/screen4.png "active")
 \
@@ -102,7 +102,7 @@ And there we go:\
 \
 ![active](/images/6screen.png "active")\
 \
-next, I entered in the username and password I had noted.\
+next, I entered the username and password I had noted.\
 \
 It worked! **I\'m in**.\
 \
@@ -154,7 +154,7 @@ tried less with Sup3rS3cretPickl3Ingred.txt\
 \
 **Looks like a SUPER SECRET INGREDIENT! TWO TO GO!**
 \
-**I wasn\'t sure where to go from here so I went back to the gobuster
+**I wasn\'t sure where to go from here, so I went back to the gobuster
 scan (which I threw in my notes to refer back later). I knew there are
 other folders on this web server. Remember /assets ?**\
 
@@ -213,7 +213,7 @@ sudo less /root/3rd.txt into the command panel\
 The best lesson I learned is when you get stuck, it\'s ok to step
 back, start over, and recon recon recon.\
 \
-Also there were times that I was asking myself a question, that I
+Also, there were times that I was asking myself a question, that I
 could just as easily google. As you saw with 'Less', a simple google
 search pointed me directly to the main solution.\
 \
@@ -222,4 +222,4 @@ helps me really learn and own the solutions, and helps other people
 learn the CTF\'s.\
 \
 **If you are reading this and have any comments/ suggestions on
-how I can improve this writeup or write-ups in the future; Please reach out to me on discord username: terminalpilot or jon.accounts@protonmail.com. My goal with writeups is to help others understand the solution, explain my process, explain my struggles, and ultimately learn with you and 'own' the techniques.**
+how I can improve this write-up or write-ups in the future; Please reach out to me on discord username: terminalpilot or jon.accounts@protonmail.com. My goal with write-ups is to help others understand the solution, explain my process, explain my struggles, and ultimately learn with you and 'own' the techniques.**
