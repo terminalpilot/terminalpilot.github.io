@@ -18,4 +18,6 @@ Connect with me and view my recommendations at [linkedin](https://www.linkedin.c
 
 Email me at: jon.accounts@protonmail.com
 
+Direct message me on discord: terminalpilot
+
 Thank you for reading!
